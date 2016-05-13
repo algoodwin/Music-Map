@@ -1,0 +1,51 @@
+code,state,category,latitude,longitude
+AL,Alabama,state,32.869,-86.5502
+AK,Alaska,state,65.379,-151.281
+AZ,Arizona,state,34.2969,-111.6870
+AR,Arkansas,state,34.405,-92.4829
+CA,California,state,36.904,-120.0805
+CO,Colorado,state,38.8814,-105.490
+CT,Connecticut,state,41.466,-72.663
+DE,Delaware,state,38.881,-75.344
+FL,Florida,state,28.254,-81.5405
+GA, Georgia,state,33.127,-83.342
+HI,Hawaii,state,21.304,-157.708
+ID,Idaho,state,43.825,-114.235
+IL,Illinois,state,40.0733,-89.2199
+IN,Indiana,state,39.921,-86.0559
+IA,Iowa,state,41.9630,-93.4606
+KS,Kansas,state,38.336,-98.2507
+KY,Kentucky,state,37.374813,-84.858398
+LA,Louisiana,state,30.810427,-92.39502
+ME,Maine,state,45.062140,-69.125977
+MD,Maryland,state,39.292930,-76.783447
+MA,Massachusetts,state,42.343388,-72.333984
+MI,Michigan,state,43.933770,-84.770508
+MN,Minnesota,state,46.016293,-94.790039
+MS,Mississippi,state,33.216019,-89.868164
+MO,Missouri,state,33.216019,-89.868164
+MT,Montana,state,47.044175,-109.467773
+NE,Nebraska,state,41.447118,-99.360352
+NV,Nevada,state,39.576339,-116.586914
+NH,New Hampshire,state,43.393340,-71.630859
+NJ,New Jersey,state,39.675625,-74.750977
+NM,New Mexico,state,34.273257,-106.149902
+NY,New York,state,40.649526,-74.399414
+NC,North Carolina,state,35.665107,-79.101563
+ND,North Dakota,state,47.389982,-100.678711
+OH,Ohio,state,40.303618,-82.792969
+OK,Oklahoma,state,35.593669,-97.558594
+OR,Oregon,state,44.015534,-120.585938
+PA,Pennsylvania,state,40.937378,-77.915039
+RI,Rhode Island,state,41.433461,-71.323242
+SC,South Carolina,state,33.750606,-80.81543
+SD,South Dakota,state,44.487689,-100.458984
+TN,Tennessee,state,35.772143,-86.572266
+TX,Texas,state,31.042345,-99.404297
+UT,Utah,state,39.426647,-111.665039
+VT,Vermont,state,43.888986,-72.773438
+VA,Virginia,state,37.395855,-78.75
+WA,Washington,state,47.389982,-120.629883
+WV,West Virginia,state,38.572864,-80.859375
+WI,Wisconsin,state,44.737954,-89.859375
+WY,Wyoming,state,42.963,-107.424
